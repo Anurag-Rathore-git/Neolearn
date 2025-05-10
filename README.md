@@ -1,4 +1,4 @@
-# Neolearn AI-Powered Learning Platform
+# Neolearn AI-Powered Learning Platform (client)
 Description: Developed an AI-driven educational platform designed to provide personalized learning experiences, real-time feedback, and adaptive assessments.
 
 Key Features & Contributions:
